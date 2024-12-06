@@ -13,7 +13,7 @@ This is the front page of a website that is powered by the [Academic Pages templ
 ======
 Hello, I’m Jaeyoung Shin, an AI researcher and developer based in Seoul, South Korea. My passion for innovation stems from an early fascination with how science and technology can address societal challenges. This curiosity was first sparked during my study of bioscience, where I applied data-driven methods to analyze marine life and neurological responses, later transitioning into computer science to broaden my impact.
 
-Today, I specialize in expressive speech synthesis, multilingual NLP, and self-supervised learning. My work spans cutting-edge projects in voice cloning, emotional speech synthesis, and audio quality assessment, contributing to advancements in human-centered AI. Collaborating with organizations like GenesisLab and PuzzleAI, I strive to turn complex challenges into transformative applications that enhance daily life.
+Today, I specialize in expressive speech synthesis, multilingual NLP, and self-supervised learning. My work spans projects in voice cloning, emotional speech synthesis, audio quality assessment, and audio retrieval. contributing to advancements in human-centered AI. Collaborating with multiple organizations, I strive to turn complex challenges into transformative applications that enhance daily life.
 
 This blog is a space to share insights, research, and ideas at the intersection of AI and human impact. Whether you’re exploring the latest breakthroughs, seeking inspiration, or interested in collaboration, I’m excited to connect and exchange knowledge.
 

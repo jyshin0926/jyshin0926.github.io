@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "kr-KR"
-title                    : "Jaeyoun Shin / CV"
+title                    : "Jaeyoung Shin / CV"
 title_separator          : "-"
 name                     : &name "Jaeyoung Shin"
 description              : &description "personal description"
@@ -247,14 +247,14 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  # - scope:
-  #     path: ""
-  #     type: teaching
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comments: true
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
@@ -273,14 +273,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  # - scope:
-  #     path: ""
-  #     type: talks
-  #   values:
-  #     layout: talk
-  #     author_profile: true
-  #     share: true
 
 
 # Sass/SCSS

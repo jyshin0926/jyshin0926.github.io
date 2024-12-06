@@ -30,17 +30,17 @@ Work experience
   * Development of chatbot programs based on LLM Agents
 
 * Spring 2020: Data Analyst, Internship
-  * Industrial Bank of Korea
+  * @ Industrial Bank of Korea
 
 * Winter 2020: Data Engineer, Internship
-  * TmaxSoft
+  * @ TmaxSoft
 
 * Fall 2019 - Spring 2020: UnderGraduate Research Assistant
-  * Sungkyunkwan University / Institute for Basic Science
+  * @ Sungkyunkwan University / Institute for Basic Science
   * Supervisor: Professor Choong-Wan Woo
 
 * Summer 2019: UnderGraduate Research Assistant
-  * Korea Institute of Ocean Science and Technology
+  * @ Korea Institute of Ocean Science and Technology
 
   
 <!-- Skills

@@ -15,17 +15,37 @@ Education
 
 Work experience
 ======
-* Spring 2024: Artificial Intelligence Model Evaluator 
-  * ScaleAI
-  * Duties includes: Analyzing the performance of LLM and Red Teaming project to prevent harmful responses of LLM
+* Apr.2024 - Present: LLM Evaluator 
+  * @ ScaleAI
+  * Analyzing the performance of LLM
+  * Red Teaming project to prevent harmful responses of LLM
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jun.2022 - Jun.2024: AI Scientist
+  * @ GenesisLab, Inc.
+  * Research and development of Voice Cloning Technology
+  * Emotional Speech Synthesis Technology research and development
+  * Multilingual Speech Synthesis Technology research and development
+  * Speech Enhancement Technology research and development
+  * Research and development of Audio Quality Assessment
+  * Development of chatbot programs based on LLM Agents
 
 * Summer 2015: Research Assistant
-  * Github University
+  * Industrial Bank of Korea
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+* Summer 2015: Research Assistant
+  * TmaxSoft
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+* Summer 2015: Research Assistant
+  * Sungkyunkwan University / Institute for Basic Science
+  * Duties included: Tagging issues
+  * Supervisor: Professor Choong-Wan Woo
+
+* Summer 2015: Research Assistant
+  * Korea Institute of Ocean Science and Technology
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   

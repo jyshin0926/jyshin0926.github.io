@@ -16,4 +16,4 @@ Today, I specialize in expressive speech synthesis, multilingual NLP, and self-s
 
 This blog is a space to share insights, research, and ideas at the intersection of AI and human impact. Whether you’re exploring the latest breakthroughs, seeking inspiration, or interested in collaboration, I’m excited to connect and exchange knowledge.
 
-Let’s innovate and make a meaningful difference. Reach out to me via [GitHub](https://github.com/jyshin0926) or [LinkedIn](https://www.linkedin.com/in/jaeyoungshin23/).
+Reach out to me via [GitHub](https://github.com/jyshin0926) or [LinkedIn](https://www.linkedin.com/in/jaeyoungshin23/)!

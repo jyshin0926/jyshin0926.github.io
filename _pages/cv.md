@@ -15,10 +15,9 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2024: Artificial Intelligence Model Evaluator 
+  * ScaleAI
+  * Duties includes: Analyzing the performance of LLM and Red Teaming project to prevent harmful responses of LLM
 
 * Fall 2015: Research Assistant
   * Github University

@@ -29,27 +29,21 @@ Work experience
   * Research and development of Audio Quality Assessment
   * Development of chatbot programs based on LLM Agents
 
-* Summer 2015: Research Assistant
+* Spring 2020: Data Analyst, Internship
   * Industrial Bank of Korea
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Summer 2015: Research Assistant
+* Winter 2020: Data Engineer, Internship
   * TmaxSoft
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Summer 2015: Research Assistant
+* Fall 2019 - Spring 2020: UnderGraduate Research Assistant
   * Sungkyunkwan University / Institute for Basic Science
-  * Duties included: Tagging issues
   * Supervisor: Professor Choong-Wan Woo
 
-* Summer 2015: Research Assistant
+* Summer 2019: UnderGraduate Research Assistant
   * Korea Institute of Ocean Science and Technology
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -62,7 +56,7 @@ Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 <!-- Talks
 ======

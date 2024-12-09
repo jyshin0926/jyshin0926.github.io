@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -41,7 +41,7 @@ Work experience
 
 * Summer 2019: UnderGraduate Research Assistant
   * @ Korea Institute of Ocean Science and Technology
-
+  * Supervisor: Professor Choong-Gon Kim
   
 <!-- Skills
 ======

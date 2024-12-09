@@ -1,6 +1,6 @@
 ---
 title: "Data Analysis Projects"
-excerpt: "Natural Language Processing and Machine Learning based Projects<br/><img src='/images/포폴sample_220502.jpeg'>"
+excerpt: "Natural Language Processing and Machine Learning based Projects<br/><img src='/images/.jpeg'>"
 collection: portfolio
 ---
 

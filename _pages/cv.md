@@ -9,10 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Marine BioScience, Korea Maritime and Ocean University, 2019
-
 Work experience
 ======
 * Apr.2024 - Present: LLM Evaluator 
@@ -42,6 +38,10 @@ Work experience
 * Summer 2019: UnderGraduate Research Assistant
   * @ Korea Institute of Ocean Science and Technology
   * Supervisor: Professor Choong-Gon Kim
+
+Education
+======
+* B.S. in Marine BioScience, Korea Maritime and Ocean University, 2019
   
 <!-- Skills
 ======

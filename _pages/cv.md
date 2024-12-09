@@ -25,6 +25,9 @@ Work experience
   * Research and development of Audio Quality Assessment
   * Development of chatbot programs based on LLM Agents
 
+* Mar.2020 - Apr.2022: AI Research Engineer
+  * @ GenesisLab, Inc.
+
 * Spring 2020: Data Analyst, Internship
   * @ Industrial Bank of Korea
 

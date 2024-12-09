@@ -1,6 +1,6 @@
 ---
 title: "Speech Synthesis"
-excerpt: "Deep Learning and Speech Processing based Projects<br/><img src='/Users/jaeyoungshin/Desktop/icassp2025/emotion_module.png'>"
+excerpt: "Deep Learning and Speech Processing based Projects<br/><img src='/images/emotion_module.png'>"
 collection: portfolio
 ---
 

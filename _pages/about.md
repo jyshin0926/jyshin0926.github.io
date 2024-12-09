@@ -6,12 +6,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
 
 <!-- Jaeyoung Shin's Personal Website -->
-Hello, I’m Jaeyoung Shin, an AI researcher and developer based in Seoul, South Korea. My passion for innovation stems from an early fascination with how science and technology can address societal challenges. This curiosity was first sparked during my study of bioscience, where I applied data-driven methods to analyze marine life and neurological responses, later transitioning into computer science to broaden my impact.
+Hello, I’m Jaeyoung Shin, an AI Research Engineer based in Seoul, South Korea. 
+Today, I specialize in expressive speech synthesis, multilingual NLP, and self-supervised learning. My work spans projects in voice cloning, emotional speech synthesis, audio quality assessment, and audio retrieval.
 
-Today, I specialize in expressive speech synthesis, multilingual NLP, and self-supervised learning. My work spans projects in voice cloning, emotional speech synthesis, audio quality assessment, and audio retrieval. contributing to advancements in human-centered AI. Collaborating with multiple organizations, I strive to turn complex challenges into transformative applications that enhance daily life.
+My interest has always been anchored in the beneficial potential of science and technology for society. Reflecting on the essentials for enhancing life quality, I sought to understand people's needs and the solutions to address their challenges and elevate their happiness. This curiosity was first sparked during my study of bioscience, where I applied data-driven methods to analyze marine life and neurological responses, later transitioning into computer science to broaden my impact.
+
+In my sophomore year, I joined a university association club, dedicating two years to addressing social issues. We discovered that mental illness, particularly depression, was a prevalent issue. My contributions were informed by observing neurological responses during a biotechnology experiment, which suggested a correlation with human mental health. This insight led us to collectively study neuroscience, with my guidance.
+
+Subsequently, I led a project linking depression to brain activity, giving university students personalized feedback based on our findings. This approach was well-received, with students finding it compelling enough to seek medical advice.
+
+Captivated by the intersection of psychology and neurology, I interned at Computational Cognitive Affective Neuroscience Laboratory. Here, I utilized functional Magnetic Resonance Imaging (fMRI) to observe brain responses to stimuli, interpreting the data with deep learning techniques. This experience reinforced my belief in the broad applicability of computer science and steered my academic focus toward it.
+
+Even after starting computer science, I kept my goal to use my knowledge and techniques to improve people's lives. At 'TmaxSoft', I created a Python tool that simplified the arduous task of text data preprocessing, aligning text with corresponding audio per pronunciation rules. This simple but efficient tool, which I developed in two days and shared with my colleagues, significantly increased efficiency, doubling task performance and earning their gratitude.
+
+As an AI scientist engaged in the generative AI field, my current focus is on developing reliable discrimination techniques to identify authentic versus synthetic media.
 
 Reach out to me via [GitHub](https://github.com/jyshin0926) or [LinkedIn](https://www.linkedin.com/in/jaeyoungshin23/)!
+

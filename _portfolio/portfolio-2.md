@@ -1,6 +1,6 @@
 ---
-title: "Competition"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/포폴sample_220502.jpeg'>"
+title: "Data Analysis Projects"
+excerpt: "Natural Language Processing and Machine Learning based Projects<br/><img src='/images/포폴sample_220502.jpeg'>"
 collection: portfolio
 ---
 

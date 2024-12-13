@@ -1,6 +1,6 @@
 ---
 title: "Data Analysis Projects"
-excerpt: "Natural Language Processing and Machine Learning based Projects<br/><img src='kor_haversine'>"
+excerpt: "Natural Language Processing and Machine Learning based Projects<br/><img src='/images/kor_haversine.png'>"
 collection: portfolio
 ---
 

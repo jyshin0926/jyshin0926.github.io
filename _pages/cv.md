@@ -11,7 +11,7 @@ redirect_from:
 
 Work experience
 ======
-* Apr.2024 - Present: LLM Evaluator 
+* Apr.2024 - Present: LLM Quality Auditor
   * @ ScaleAI
   * Analyzing the performance of LLM
   * Red Teaming project to prevent harmful responses of LLM

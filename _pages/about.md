@@ -22,7 +22,7 @@ In my sophomore year, I joined a university association club and spent two years
 My contributions were informed by observing neurological responses during a biotechnology experiment, which suggested a correlation with human mental health. 
 Subsequently, I led a project linking depression to brain activity, giving university students personalized feedback based on our findings. 
 
-Captivated by the intersection of psychology and neurology, I researched at [Computational Cognitive Affective Neuroscience Laboratory](https://cocoanlab.github.io/) as an undergraduate intern. 
+Captivated by the intersection of psychology and neurology, I researched at [Computational Cognitive Affective Neuroscience Laboratory](https://cocoanlab.github.io/), [IBS](https://www.ibs.re.kr/eng.do) as an undergraduate intern. 
 Here, I utilized functional Magnetic Resonance Imaging (fMRI) to observe brain responses to stimuli, interpreting the data with deep learning techniques. 
 This experience reinforced my belief in the broad applicability of signal processing and computer science and steered my academic focus toward it.
 

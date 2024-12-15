@@ -26,7 +26,7 @@ Here, I utilized functional Magnetic Resonance Imaging (fMRI) to observe brain r
 This experience reinforced my belief in the broad applicability of signal processing and computer science and steered my academic focus toward it.
 
 Even after starting computer science, I kept my goal to use my knowledge and techniques to improve people's lives. 
-At [TmaxSoft](https://www.tmaxsoft.com/en/introduction/overview), I created a Python tool that simplified the arduous task of text data preprocessing, aligning text with corresponding audio per pronunciation rules. 
+At [TmaxSoft](https://www.tmaxsoft.com/en/introduction/overview), I created a [Python tool](https://github.com/jyshin0926/TxtTransTool/blob/master/README_eng.md) that simplified the arduous task of text data preprocessing within two days for colleagues, and this doubled the task efficiency overall.
 
 As an AI scientist engaged in the generative AI field, my current focus is on developing reliable discrimination techniques to identify authentic versus synthetic media.
 

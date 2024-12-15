@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <!-- Jaeyoung Shin's Personal Website -->
-Hello, I’m Jaeyoung Shin, an AI Research Engineer and I am currently working for [ScaleAI](https://scale.com/).
+Hello, I’m Jaeyoung Shin, an AI Research Engineer and currently working for [ScaleAI](https://scale.com/) as a freelancer.
 
 Today, I specialize in auditing generative models' quality and development. 
 Additionally, I have been researching the speech processing field, especially for speech synthesis and enhancement while working for [GenesisLab](https://home.genesislab.ai/) and [PuzzleAI](https://puzzle-ai.com/). 

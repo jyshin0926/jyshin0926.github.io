@@ -18,8 +18,7 @@ My interest has always been anchored in the beneficial potential of science and 
 Reflecting on the essentials for enhancing life quality, I sought to understand people's needs and the solutions to address their challenges and elevate their happiness. 
 This curiosity was first sparked during my study of bioscience, where I applied data-driven methods to analyze marine life and neurological responses, later transitioning into computer science to broaden my impact.
 
-In my sophomore year, I joined a university association club, dedicating two years to addressing social issues. 
-We discovered that mental illness, particularly depression, was a prevalent issue. 
+In my sophomore year, I joined a university association club and spent two years addressing social issues, with a focus on mental illness and depression.
 My contributions were informed by observing neurological responses during a biotechnology experiment, which suggested a correlation with human mental health. 
 Subsequently, I led a project linking depression to brain activity, giving university students personalized feedback based on our findings. 
 

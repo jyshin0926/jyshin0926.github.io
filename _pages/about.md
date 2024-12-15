@@ -20,8 +20,7 @@ Reflecting on the essentials for enhancing life quality, I sought to understand 
 Therefore, in my sophomore year as a biology major, I joined a university club addressing social issues and led a project linking depression to brain activity, using insights from my biology studies to provide personalized feedback to students.
 
 Captivated by the intersection of psychology and neurology, I researched at [Computational Cognitive Affective Neuroscience Laboratory](https://cocoanlab.github.io/), [IBS](https://www.ibs.re.kr/eng.do) as an undergraduate intern. 
-Here, I utilized functional Magnetic Resonance Imaging (fMRI) to observe brain responses to stimuli, interpreting the data with deep learning techniques. 
-This experience reinforced my belief in the broad applicability of signal processing and computer science and steered my academic focus toward it.
+Here, I utilized functional Magnetic Resonance Imaging (fMRI) to observe brain responses to stimuli, interpreting the data with deep learning and signal processing techniques. 
 
 Even after starting computer science, I kept my goal to use my knowledge and techniques to improve people's lives. 
 During internship at [TmaxSoft](https://www.tmaxsoft.com/en/introduction/overview), I created a [Python tool](https://github.com/jyshin0926/TxtTransTool/blob/master/README_eng.md) after work hours, which simplified the arduous task of text data preprocessing within two days for colleagues, ultimately doubling overall task efficiency.

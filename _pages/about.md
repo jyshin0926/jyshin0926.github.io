@@ -10,7 +10,7 @@ redirect_from:
 <!-- Jaeyoung Shin's Personal Website -->
 Hello, I’m Jaeyoung Shin, an AI Research Engineer and I am currently working for [ScaleAI](https://scale.com/).
 
-Today, I specialize in auditing generative models' quality and development. Additionally, I have been researching speech processing field especially for expressive speech synthesis and enhancement. My work spans projects in voice cloning, expressive speech synthesis, audio quality assessment, and audio retrieval.
+Today, I specialize in auditing generative models' quality and development. Additionally, I have been researching speech processing field especially for expressive speech synthesis and enhancement while working for [GenesisLab](https://home.genesislab.ai/) and [PuzzleAI](https://puzzle-ai.com/). My work spans projects in voice cloning, expressive speech synthesis, audio quality assessment, and audio retrieval.
 
 My interest has always been anchored in the beneficial potential of science and technology for society. Reflecting on the essentials for enhancing life quality, I sought to understand people's needs and the solutions to address their challenges and elevate their happiness. This curiosity was first sparked during my study of bioscience, where I applied data-driven methods to analyze marine life and neurological responses, later transitioning into computer science to broaden my impact.
 

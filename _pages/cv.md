@@ -44,7 +44,7 @@ Work experience
 
 Education
 ======
-* B.S. in Marine BioScience, Korea Maritime and Ocean University, 2019
+* B.S. in Auqatic BioScience, Korea Maritime and Ocean University, 2019
   
 <!-- Skills
 ======

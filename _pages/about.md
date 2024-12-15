@@ -16,10 +16,9 @@ My work spans projects in voice cloning, expressive TTS, audio quality assessmen
 
 My interest has always been anchored in the beneficial potential of science and technology for society. 
 Reflecting on the essentials for enhancing life quality, I sought to understand people's needs and the solutions to address their challenges and elevate their happiness. 
-This curiosity was first sparked during my study of bioscience, where I applied data-driven methods to analyze marine life and neurological responses, later transitioning into computer science to broaden my impact.
 
 In my sophomore year, I joined a university association club and spent two years addressing social issues, with a focus on mental illness and depression.
-My contributions were informed by observing neurological responses during a biotechnology experiment, which suggested a correlation with human mental health. 
+Since I was majoring in biology for my Bachelor's degree, my contributions were informed by observing neurological responses during a biology experiment, which suggested a correlation with human mental health. 
 Subsequently, I led a project linking depression to brain activity, giving university students personalized feedback based on our findings. 
 
 Captivated by the intersection of psychology and neurology, I researched at [Computational Cognitive Affective Neuroscience Laboratory](https://cocoanlab.github.io/), [IBS](https://www.ibs.re.kr/eng.do) as an undergraduate intern. 

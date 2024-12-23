@@ -8,3 +8,6 @@ collection: portfolio
 At GenesisLab, I worked on developing AI Interviewer and AI doctor as part of the company's services.
 * AI Interviewer TTS samples: You can listen to the text-to-speech samples for the AI Interviewer on [this page](https://www.notion.so/TTS-Experiment-Results-for-AI-Interviewer-231230-1585e6c5fc6980a287dcf912b3b1d8c7?pvs=4).
 * AI doctor TTS Samples: The text-to-speech samples for the AI Doctor TTS are available on [this page](https://www.notion.so/TTS-Results-for-AI-Doctor-1655e6c5fc698036a13af0a0c7d83f33?pvs=4).
+
+Previously, I awarded 2nd Prize in the Youth Talent Practical Project Contest (November 11, 2020) for developing a speech synthesis service that integrates features of Tacotron and Tacotron2, designed to generate meme content.
+The code is available at [GitHub](https://github.com/jyshin0926/KoreanTTS).

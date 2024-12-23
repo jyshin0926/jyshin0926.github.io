@@ -5,5 +5,5 @@ collection: portfolio
 ---
 
  
-[Exe File](https://github.com/jyshin0926/TxtTransTool) and [Code](https://github.com/jyshin0926/TxtTransTool_code)
+[Exe File](https://github.com/jyshin0926/TxtTransTool/blob/master/README_eng.md) and [Code](https://github.com/jyshin0926/TxtTransTool_code)
 

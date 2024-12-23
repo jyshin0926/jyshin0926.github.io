@@ -4,7 +4,7 @@ excerpt: "Data Preprocessing Tools based on Java and Python<br/><img src='https:
 collection: portfolio
 ---
 
-When I interned at TmaxSoft as a data engineer, I noticed that many colleagues were stressed by the arduous preprocessing of speech-text pair data, which involved various tricky elements, including floating-point numbers, negatives and positives, dates, Korean and English words, and alphabets, as well as mathematical and chemical symbols. \\
+During my internship at TmaxSoft as a data engineer, I noticed that many colleagues were stressed by the arduous preprocessing of speech-text pair data. This process involved various tricky elements, such as floating-point numbers, positive and negative values, dates, Korean and English words, alphabets, and mathematical and chemical symbols. \\
 To address this, I created a [preprocessing tool](https://github.com/jyshin0926/TxtTransTool/blob/master/TxtTransTool.exe) after work hours that processed individual words or sentences according to Korean pronunciation rules with a single mouse click. I developed this tool in just two days and deployed it within the company, doubling task efficiency and significantly improving my colleagues’ work-life balance.
 
 For a more detailed explanation and the corresponding code, please refer to the [Executable File](https://github.com/jyshin0926/TxtTransTool/blob/master/README_eng.md) and [Source Code](https://github.com/jyshin0926/TxtTransTool_code/blob/master/README_eng.md).

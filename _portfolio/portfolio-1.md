@@ -12,4 +12,4 @@ At GenesisLab, I worked on developing AI Interviewer and AI doctor as part of th
 Previously, I awarded 2nd Prize in the Youth Talent Practical Project Contest (November 11, 2020) for developing a speech synthesis service that integrates features of Tacotron and Tacotron2, designed to generate meme content.
 The code is available at [GitHub](https://github.com/jyshin0926/KoreanTTS).
 
-I am currently researching controllable emotional TTS with multi-modal prompts and have authored the paper that is under review for NAACL 2025.
+I am currently researching controllable emotional TTS with multi-modal prompts and have independently authored a paper that is under review for NAACL 2025.

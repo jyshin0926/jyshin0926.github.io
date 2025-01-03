@@ -8,5 +8,5 @@ During my internship at TmaxSoft as a data engineer, I noticed that many colleag
 
 To address this, I created a [preprocessing tool](https://github.com/jyshin0926/TxtTransTool/blob/master/TxtTransTool.exe) after work hours that processed individual words or sentences according to Korean pronunciation rules with a single mouse click. I developed this tool in just two days and deployed it within the company, doubling task efficiency and significantly improving my colleagues’ work-life balance.
 
-For a more detailed explanation and the corresponding code, please refer to the [Executable File](https://github.com/jyshin0926/TxtTransTool/blob/master/README_eng.md) and [Source Code](https://github.com/jyshin0926/TxtTransTool_code/blob/master/README_eng.md).
+For a more detailed explanation and the corresponding code, please refer to the links for [Executable File](https://github.com/jyshin0926/TxtTransTool/blob/master/README_eng.md) and [Source Code](https://github.com/jyshin0926/TxtTransTool_code/blob/master/README_eng.md).
 

@@ -6,7 +6,29 @@ collection: portfolio
 
 <!-- [Sample Page](https://www.notion.so/2023_TTS-1-87fdd1d754da49a8831e284f979a6d6d?pvs=4) -->
 At GenesisLab, I led and worked on developing AI Interviewer and AI doctor as part of the company's services.
-* AI Interviewer TTS samples: You can listen to the text-to-speech samples for the AI Interviewer on [this page](https://jealous-father-6b2.notion.site/TTS-Experiment-Results-for-AI-Interviewer-231230-1585e6c5fc6980a287dcf912b3b1d8c7?pvs=7).
+<!-- * AI Interviewer TTS samples: You can listen to the text-to-speech samples for the AI Interviewer on [this page](https://jealous-father-6b2.notion.site/TTS-Experiment-Results-for-AI-Interviewer-231230-1585e6c5fc6980a287dcf912b3b1d8c7?pvs=7). -->
+
+## AI Interviewer Demo (GenesisLab)
+
+<div style="text-align: center;">
+  <a href="https://www.youtube.com/watch?v=N9IFAdOfN-s&t=535" target="_blank">
+    <img src="https://img.youtube.com/vi/N9IFAdOfN-s/maxresdefault.jpg" 
+         alt="AI Interviewer Demo - GenesisLab" 
+         width="75%">
+  </a>
+</div>
+
+🎤 **Description:**  
+This AI Interviewer, developed at **GenesisLab**, leverages **speech recognition and AI-driven dialogue generation** to simulate real-time job interviews. It can analyze **candidate responses, tone, and language fluency** to provide structured feedback.
+
+📌 **My Role:**  
+- Developed **voice synthesis and response generation** models.
+- Worked on **audio quality assessment and emotion analysis**.
+- Optimized **speech recognition accuracy** for natural dialogue flow.
+
+⏯ **Watch the demo (8:55 - 11:02) on [YouTube](https://www.youtube.com/watch?v=N9IFAdOfN-s&t=535).**
+
+
 * AI doctor TTS Samples: The text-to-speech samples for the AI Doctor TTS are available on [this page](https://jealous-father-6b2.notion.site/TTS-Results-for-AI-Doctor-24-01-1655e6c5fc698036a13af0a0c7d83f33).
 
 Previously, I awarded 2nd Prize in the Youth Talent Practical Project Contest (November 11, 2020) for developing a speech synthesis service within a week utilizing lightweight Griffin-Lim algorithm. The service integrated features of Tacotron and Tacotron2, specifically designed for generating meme content.

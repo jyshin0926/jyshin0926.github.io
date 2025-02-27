@@ -1,7 +1,7 @@
 ---
 title: "Speech Synthesis"
 excerpt: "Deep Learning and Speech Processing based Projects<br/><img src='/images/emotion_module.png'>"
-collection: portfolio
+collection: projects
 ---
 
 <!-- [Sample Page](https://www.notion.so/2023_TTS-1-87fdd1d754da49a8831e284f979a6d6d?pvs=4) -->
@@ -36,7 +36,7 @@ At GenesisLab, I led and worked on developing AI Interviewer and AI doctor as pa
 - Optimized **speech recognition accuracy** for natural dialogue flow. -->
 
 ⏯ **Watch the demo (8:55 - 11:02) on [YouTube](https://www.youtube.com/watch?v=N9IFAdOfN-s&t=535).**<br>
-🎧 **Listen to more TTS samples for the AI Interviewer on [this page](https://jealous-father-6b2.notion.site/TTS-Experiment-Results-for-AI-Interviewer-231230-1585e6c5fc6980a287dcf912b3b1d8c7?pvs=7).**
+🎧 **Listen to more advanced TTS samples for the AI Interviewer on [this page](https://jealous-father-6b2.notion.site/TTS-Experiment-Results-for-AI-Interviewer-231230-1585e6c5fc6980a287dcf912b3b1d8c7?pvs=7).**
 
 
 ## AI Doctor TTS Samples

@@ -23,19 +23,18 @@ collection: portfolio
 🎤 **Description:**  
 This AI Interviewer, developed at **GenesisLab**, leverages **speech recognition and AI-driven dialogue generation** to simulate real-time job interviews. It can analyze **candidate responses, tone, and language fluency** to provide structured feedback.
 
-📌 **My Role:**  
+**My Role:**  
 At GenesisLab, I led and worked on developing AI Interviewer and AI doctor as part of the company's services.
 - Developed **voice synthesis and response generation** models.
 - Worked on **speech enhancement, audio quality assessment and emotion analysis**.
 - Optimized **speech recognition accuracy** for natural dialogue flow.
 
 ⏯ **Watch the demo (8:55 - 11:02) on [YouTube](https://www.youtube.com/watch?v=N9IFAdOfN-s&t=535).**<br>
-🎧 **TTS Samples**  
-You can listen to more text-to-speech samples for the AI Interviewer on [this page](https://jealous-father-6b2.notion.site/TTS-Experiment-Results-for-AI-Interviewer-231230-1585e6c5fc6980a287dcf912b3b1d8c7?pvs=7).
+🎧 **Listen to more TTS samples for the AI Interviewer on [this page](https://jealous-father-6b2.notion.site/TTS-Experiment-Results-for-AI-Interviewer-231230-1585e6c5fc6980a287dcf912b3b1d8c7?pvs=7).**
 
 
 ## AI Doctor TTS Samples
-🔬 **AI Doctor** utilizes **text-to-speech (TTS) synthesis** to enhance AI-powered medical consultations by generating clear and expressive speech responses. 
+AI Doctor utilizes text-to-speech (TTS) synthesis to enhance AI-powered medical consultations by generating clear and expressive speech responses. 
 
 🎧 **Listen to TTS samples on [this page](https://jealous-father-6b2.notion.site/TTS-Results-for-AI-Doctor-24-01-1655e6c5fc698036a13af0a0c7d83f33).**
 

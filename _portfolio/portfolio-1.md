@@ -15,7 +15,7 @@ At GenesisLab, I led and worked on developing AI Interviewer and AI doctor as pa
     <!-- <img src="https://img.youtube.com/vi/N9IFAdOfN-s/maxresdefault.jpg" 
          alt="AI Interviewer Demo - GenesisLab" 
          width="75%"> -->
-	<img src="/Users/jaeyoungshin/Desktop/jyshin0926.github.io/images/newtech_aihuman.png" 
+	<img src="/images/newtech_aihuman.png" 
          alt="AI Interviewer Demo - GenesisLab" 
          width="75%">
   </a>

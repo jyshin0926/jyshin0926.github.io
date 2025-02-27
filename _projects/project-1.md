@@ -52,8 +52,8 @@ AI Doctor utilizes text-to-speech (TTS) synthesis to enhance AI-powered medical 
 - 📄 **Research in Controllable Emotional TTS**  
   Currently investigating **multi-modal prompts for expressive and controllable speech synthesis**. Independently authored a **research paper**, which is **under review for ACL 2025**.
 
----
-This portfolio highlights my expertise in **speech synthesis, expressive TTS, and AI-driven dialogue systems**. Feel free to explore my work or reach out for collaboration!
+<!-- ---
+This portfolio highlights my expertise in **speech synthesis, expressive TTS, and AI-driven dialogue systems**. Feel free to explore my work or reach out for collaboration! -->
 
 
 <!-- * AI doctor TTS Samples: The text-to-speech samples for the AI Doctor TTS are available on [this page](https://jealous-father-6b2.notion.site/TTS-Results-for-AI-Doctor-24-01-1655e6c5fc698036a13af0a0c7d83f33).

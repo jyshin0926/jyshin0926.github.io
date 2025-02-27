@@ -11,9 +11,9 @@ redirect_from:
 <!-- Jaeyoung Shin's Personal Website -->
 <!-- # About Me -->
 
-Hello! I’m **Jaeyoung Shin**, an **AI Research Engineer** specializing in **expressive speech synthesis, multilingual TTS, and multimodal generative models**.  
+Hello! I’m Jaeyoung Shin, an AI Research Engineer specializing in expressive speech synthesis, multilingual TTS, and multimodal generative models.  
 I currently work as a freelancer at [ScaleAI](https://scale.com/), optimizing generative models and ensuring the safety and quality of AI-generated responses.  
-Previously, I contributed to **voice cloning, expressive TTS, and audio quality assessment** at [GenesisLab](https://home.genesislab.ai/) and [PuzzleAI](https://puzzle-ai.com/).
+Previously, I contributed to voice cloning, expressive TTS, and audio quality assessment at [GenesisLab](https://home.genesislab.ai/) and [PuzzleAI](https://puzzle-ai.com/).
 
 ## What I Do
 My research focuses on making **speech AI more expressive, natural, and robust**. Key areas of expertise include:
@@ -30,7 +30,7 @@ Originally trained in **marine biology**, I transitioned into **AI research** af
 - **Intern at [TmaxSoft](https://www.tmaxsoft.com/en/introduction/overview)** – Created a **[Python tool](https://github.com/jyshin0926/TxtTransTool/blob/master/README_eng.md)** that **doubled** text preprocessing efficiency.
 
 ## Current Focus
-I’m currently working on **IMPACT-TTS**, a multimodal emotional TTS system designed to overcome **low-resource constraints** (submitted to ACL 2025).  
+I’m currently working on a multimodal emotional TTS system designed to overcome low-resource constraints, and submitted a paper to ACL 2025.  
 Additionally, I contribute to **AI safety research**, ensuring generative models remain **trustworthy and ethical**.
 
 ## Contact

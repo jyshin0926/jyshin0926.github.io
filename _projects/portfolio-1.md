@@ -25,7 +25,7 @@ At GenesisLab, I led and worked on developing AI Interviewer and AI doctor as pa
   </a>
 </div>
 
-🎤 **Description:**  
+<!-- 🎤 **Description:**   -->
 This AI Interviewer, developed at **GenesisLab**, leverages **speech recognition and AI-driven dialogue generation** to simulate real-time job interviews. 
 <!-- It can analyze **candidate responses, tone, and language fluency** to provide structured feedback. -->
 

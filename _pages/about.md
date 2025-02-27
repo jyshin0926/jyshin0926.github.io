@@ -11,7 +11,7 @@ redirect_from:
 <!-- Jaeyoung Shin's Personal Website -->
 <!-- # About Me -->
 
-Hello! I’m Jaeyoung Shin, an AI Research Engineer specializing in expressive speech synthesis, multilingual TTS, and multimodal generative models.  
+Hello! I’m **Jaeyoung Shin**, an AI Research Engineer specializing in **expressive speech synthesis, multilingual TTS, and multimodal generative models**.  
 I currently work as a freelancer at [ScaleAI](https://scale.com/), optimizing generative models and ensuring the safety and quality of AI-generated responses.  
 Previously, I contributed to voice cloning, expressive TTS, and audio quality assessment at [GenesisLab](https://home.genesislab.ai/) and [PuzzleAI](https://puzzle-ai.com/).
 

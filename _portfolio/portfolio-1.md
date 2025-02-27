@@ -7,7 +7,7 @@ collection: portfolio
 <!-- [Sample Page](https://www.notion.so/2023_TTS-1-87fdd1d754da49a8831e284f979a6d6d?pvs=4) -->
 <!-- * AI Interviewer TTS samples: You can listen to the text-to-speech samples for the AI Interviewer on [this page](https://jealous-father-6b2.notion.site/TTS-Experiment-Results-for-AI-Interviewer-231230-1585e6c5fc6980a287dcf912b3b1d8c7?pvs=7). -->
 
-## AI Interviewer Demo (GenesisLab)
+## AI Interviewer Demo
 
 <div style="text-align: center;">
   <a href="https://www.youtube.com/watch?v=N9IFAdOfN-s&t=535" target="_blank">
@@ -29,7 +29,7 @@ At GenesisLab, I led and worked on developing AI Interviewer and AI doctor as pa
 - Worked on **speech enhancement, audio quality assessment and emotion analysis**.
 - Optimized **speech recognition accuracy** for natural dialogue flow.
 
-⏯ **Watch the demo (8:55 - 11:02) on [YouTube](https://www.youtube.com/watch?v=N9IFAdOfN-s&t=535).**
+⏯ **Watch the demo (8:55 - 11:02) on [YouTube](https://www.youtube.com/watch?v=N9IFAdOfN-s&t=535).**<br>
 🎧 **TTS Samples**  
 You can listen to more text-to-speech samples for the AI Interviewer on [this page](https://jealous-father-6b2.notion.site/TTS-Experiment-Results-for-AI-Interviewer-231230-1585e6c5fc6980a287dcf912b3b1d8c7?pvs=7).
 

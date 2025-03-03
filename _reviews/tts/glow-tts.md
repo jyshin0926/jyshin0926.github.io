@@ -1,7 +1,7 @@
 ---
 title: "Glow-TTS Paper Review"
 date: 2020-05-22
-layout: single
+layout: default
 collection: reviews
 category: tts
 tags: [tts, paper-review, generative-model]

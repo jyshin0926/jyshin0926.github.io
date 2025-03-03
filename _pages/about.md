@@ -25,8 +25,8 @@ Originally trained in marine biology, I transitioned into AI research after disc
 
 - **AI Scientist at [GenesisLab](https://home.genesislab.ai/)** – Developed **voice cloning, expressive TTS, and chatbot programs** using LLMs.
 - **AI Researcher at [PuzzleAI](https://puzzle-ai.com/)** – Focused on **speaker verification, real-time noise reduction, and document summarization**.
-- **Undergraduate Intern at [Computational Cognitive Affective Neuroscience Laboratory](https://cocoanlab.github.io/), [IBS](https://www.ibs.re.kr/eng.do/)** – Applied **fMRI analysis, deep learning, and signal processing** to study brain responses.
 - **Intern at [TmaxSoft](https://www.tmaxsoft.com/en/introduction/overview)** – Created a **[Python tool](https://github.com/jyshin0926/TxtTransTool/blob/master/README_eng.md)** that **doubled** text preprocessing efficiency.
+- **Undergraduate Intern at [Computational Cognitive Affective Neuroscience Laboratory](https://cocoanlab.github.io/), [IBS](https://www.ibs.re.kr/eng.do/)** – Applied **fMRI analysis, deep learning, and signal processing** to study brain responses.
 
 ## Current Focus
 I’m currently working on a multimodal emotional TTS system designed to overcome low-resource constraints, and submitted a paper to ACL 2025.  

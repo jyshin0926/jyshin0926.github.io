@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Paper Reviews"
+permalink: /reviews/
+author_profile: true
+---
+
 ## 📑 Paper Reviews by Category
 
 ### 🗣️ Text-to-Speech (TTS)
@@ -26,4 +33,3 @@
   {% if review.category == "nlp" %}
     {% include archive-single.html %}
   {% endif %}
-{% endfor %}

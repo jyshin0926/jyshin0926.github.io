@@ -19,12 +19,7 @@ The code is available on [GitHub](https://github.com/jyshin0926/BigDataCampusCon
 </div>
 
 
-For further details on our data analysis, methodology, and key insights, you can explore our full presentation slides below.
-<div style="text-align: center;">
-  <iframe src="https://drive.google.com/file/d/193LcqaKGFyYtt8k77G2H1TjIueXn5V9r/view?usp=sharing" 
-          width="100%" height="600px">
-  </iframe>
-</div>
+For further details on our data analysis, methodology, and key insights, you can explore our [full presentation slides](https://drive.google.com/file/d/193LcqaKGFyYtt8k77G2H1TjIueXn5V9r/view?usp=sharing).
 
 
 <!-- <div style="text-align: center;">

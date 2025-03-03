@@ -22,7 +22,7 @@ My research focuses on making **speech AI more expressive, natural, and robust**
 - **Speech Enhancement & Retrieval** – Improving **audio quality and assessment** using deep learning.
 
 ## Research & Experience
-Originally trained in **marine biology**, I transitioned into **AI research** after discovering the potential of deep learning in **cognitive neuroscience and speech technology**.  
+Originally trained in **marine biology**, I transitioned into **AI research** after discovering the potential of deep learning in cognitive neuroscience and speech technology.  
 
 - **AI Scientist at [GenesisLab](https://home.genesislab.ai/)** – Developed **voice cloning, expressive TTS, and chatbot programs** using LLMs.
 - **AI Researcher at [PuzzleAI](https://puzzle-ai.com/)** – Focused on **speaker verification, real-time noise reduction, and document summarization**.

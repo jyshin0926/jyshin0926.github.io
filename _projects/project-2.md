@@ -18,7 +18,7 @@ The code is available on [GitHub](https://github.com/jyshin0926/BigDataCampusCon
   </iframe>
 </div>
 
-
+<br>
 For further details on our data analysis, methodology, and key insights, you can explore our [full presentation slides](https://drive.google.com/file/d/193LcqaKGFyYtt8k77G2H1TjIueXn5V9r/view?usp=sharing).
 
 

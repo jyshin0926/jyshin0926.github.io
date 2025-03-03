@@ -21,11 +21,3 @@ The code is available on [GitHub](https://github.com/jyshin0926/BigDataCampusCon
 <br>
 For further details on our data analysis, methodology, and key insights, you can explore our [full presentation slides](https://drive.google.com/file/d/193LcqaKGFyYtt8k77G2H1TjIueXn5V9r/view?usp=sharing).
 
-
-<!-- <div style="text-align: center;">
-  <a href="https://www.youtube.com/watch?v=k-jYxLmNBp0" target="_blank">
-    <img src="https://img.youtube.com/vi/k-jYxLmNBp0/maxresdefault.jpg" 
-         alt="BigData Campus Contest" 
-         width="75%">
-  </a>
-</div> -->

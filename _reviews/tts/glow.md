@@ -1,6 +1,6 @@
 ---
 title: "Glow Paper Review"
-# date: 2023-12-01
+date: 2020-05-22
 layout: single
 collection: reviews
 category: tts

@@ -1,10 +1,10 @@
 ---
 title: "Glow Paper Review"
-date: 2020-05-22
+date: 2018-07-09
 layout: single
 collection: reviews
 category: tts
-tags: [tts, paper-review, generative-model]
+tags: [paper-review, generative-model]
 permalink: /reviews/tts/glow/
 ---
 

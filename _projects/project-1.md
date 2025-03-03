@@ -1,5 +1,5 @@
 ---
-title: "Speech Synthesis"
+title: "Speech Synthesis for AI Human"
 excerpt: "Deep Learning and Speech Processing based Projects<br/><img src='/images/newtech_aihuman.png'>"
 collection: projects
 ---

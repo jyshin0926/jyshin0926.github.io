@@ -224,6 +224,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  reviews:
+    output: true
+    permalink: /:collection/:path/
   # talks:
   #   output: true
   #   permalink: /:collection/:path/
@@ -231,10 +234,10 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _posts
+  # _reviews
   - scope:
       path: ""
-      type: posts
+      type: reviews
     values:
       layout: single
       author_profile: true

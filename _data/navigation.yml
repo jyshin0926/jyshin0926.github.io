@@ -29,8 +29,8 @@ main:
   # - title: "Publications"
   #   url: /publications/
 
-  # - title: "Paper Reviews"
-  #   url: /publications/
+  - title: "Paper Reviews"
+    url: /reviews/
   
   # - title: "CV"
   #   url: /cv/

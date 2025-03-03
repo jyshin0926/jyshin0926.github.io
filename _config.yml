@@ -267,7 +267,7 @@ defaults:
   #     author_profile: true
   #     share: true
   #     comments: true
-  # _portfolio
+  # _projects
   - scope:
       path: ""
       type: projects
@@ -277,14 +277,14 @@ defaults:
       share: true
       comment: true
   # _research
-  # - scope:
-  #     path: ""
-  #     type: research
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comment: true
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
 
 
 # Sass/SCSS

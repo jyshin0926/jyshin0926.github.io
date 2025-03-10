@@ -7,11 +7,6 @@ collection: research
 <!-- ## Research in Controllable Emotional TTS -->
   Currently investigating **multi-modal prompts for expressive and controllable speech synthesis**. Independently authored a **research paper, IMPACT-TTS**, which is **under review for ACL 2025**.
 
-  ---
-# Controllable Emotional TTS
-
-Currently investigating **multi-modal prompts** for expressive and **controllable speech synthesis**. Independently authored a **research paper**, which is **under review for ACL 2025**.
-
 ---
 
 <!-- # IMPACT-TTS: Revolutionizing Emotional Speech Synthesis with Multimodal Control -->

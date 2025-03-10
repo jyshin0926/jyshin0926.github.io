@@ -21,7 +21,7 @@ Currently investigating **multi-modal prompts** for expressive and **controllabl
 
 Have you ever wished your virtual assistant could **speak with real emotions**, adapting its tone just like a human? Whether it's **expressive audiobook narration**, **immersive gaming dialogues**, or **lifelike dubbing**, emotional expressiveness in Text-to-Speech (TTS) systems is a **game-changer**. However, **traditional emotional TTS models** struggle with limited emotion control and unnatural expression.
 
-That's where **IMPACT-TTS** comes in! This new approach integrates **multimodal learning and prompt-based control** to bring **fine-grained, user-driven emotional expressiveness** to synthetic voices. 
+That's where **IMPACT-TTS** comes in! This approach integrates **multimodal learning and prompt-based control** to bring **fine-grained, user-driven emotional expressiveness** to synthetic voices. 
 <!-- Let’s dive into how this innovation is reshaping the future of TTS! -->
 
 ---

@@ -44,7 +44,7 @@ Instead of relying solely on text-based cues, the model **fuses vision and audio
 Rather than being limited to predefined categories (e.g., ‘happy’ or ‘sad’), users can **use descriptive prompts** like *‘excited but calm’* or *‘nervous with a hint of confidence’* for **customized voice generation**.
 
 ### Real-Time Emotion Modulation
-Unlike previous models that **fix emotional settings at training**, IMPACT-TTS lets you **adjust emotions dynamically** during synthesis, refining pitch, energy, and rhythm **on the fly**.
+Unlike previous models that **fix emotional settings at training**, IMPACT-TTS lets you **adjust emotions dynamically** during synthesis, refining pitch, energy, and rhythm on the fly.
 
 ### Spherical Interpolation for Natural Emotion Blending
 The model can smoothly transition between emotions, allowing for **nuanced expressiveness** rather than abrupt shifts between categories.

@@ -18,7 +18,7 @@ permalink: /reviews/tts/watermarking/
 
 
 
-📄 **Slides (Korean ver.):** [View Here](https://docs.google.com/presentation/d/1d7W4d-sz8RWgHV_rk6kaVcQE-cObf7ns/edit?usp=sharing&ouid=116677507102760525154&rtpof=true&sd=true)
+📄 **Slides:** [View Here](https://docs.google.com/presentation/d/1d7W4d-sz8RWgHV_rk6kaVcQE-cObf7ns/edit?usp=sharing&ouid=116677507102760525154&rtpof=true&sd=true)
 
 
 

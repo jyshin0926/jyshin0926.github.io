@@ -12,9 +12,7 @@ permalink: /reviews/tts/watermarking/
 📝 **Paper:** [Collaborative Watermarking for Adversarial Speech Synthesis](https://arxiv.org/abs/2309.15224)
 
 
-
-<!-- 📝 **Paper:** Glow-TTS: A Generative Flow for Text-to-Speech Synthesis  
-🔍 **Summary:** This paper introduces a **flow-based** model for TTS, improving **robustness** compared to Tacotron. -->
+<-- 🔍 **Summary:** This paper introduces a **flow-based** model for TTS, improving **robustness** compared to Tacotron. -->
 
 
 

@@ -1,11 +1,11 @@
 ---
-title: "Neural Grapheme-to-Phoneme Paper Review"
-date: 2022-01-26
+title: "Automatic Prosody Annotation Paper Review"
+date: 2022-06-16
 layout: single
 collection: reviews
-category: preprocessing
-tags: [paper-review,g2p, text, preprocessing]
-permalink: /reviews/expressiveness/g2p/
+category: expressiveness
+tags: [paper-review, generative-model, Neural Codec]
+permalink: /reviews/expressiveness/prosody/
 ---
 
 📝 **Paper:** Neural Grapheme-to-Phoneme Conversion with Pre-trained Grapheme Models
@@ -15,5 +15,5 @@ permalink: /reviews/expressiveness/g2p/
 
 
 
-📄 **Slides:** [View Here](https://docs.google.com/presentation/d/1mCDT536vEtfMSQGeig2k-SAVw3zkB2e9/edit?usp=sharing&ouid=116677507102760525154&rtpof=true&sd=true)
+📄 **Slides:** [View Here](https://docs.google.com/presentation/d/1LpdrRwsM2-XfGX1fnRoGD_rBA8ZTt6Nk/edit?usp=sharing&ouid=116677507102760525154&rtpof=true&sd=true)
 

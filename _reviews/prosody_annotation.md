@@ -3,9 +3,9 @@ title: "Automatic Prosody Annotation Paper Review"
 date: 2022-06-16
 layout: single
 collection: reviews
-category: tts
+category: expressiveness
 tags: [paper-review, generative-model, Neural Codec]
-permalink: /reviews/tts/valle/
+permalink: /reviews/expressiveness/prosody/
 ---
 
 📝 **Paper:** Automatic Prosody Annotation with Pre-Trained Text-Speech Model 

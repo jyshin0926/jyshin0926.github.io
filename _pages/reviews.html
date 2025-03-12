@@ -12,7 +12,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-
 ---
 layout: archive
 title: "Paper Reviews"
@@ -30,5 +29,9 @@ author_profile: true
   <article>
     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
     <p><strong>Published on:</strong> {{ post.date | date: "%B %d, %Y" }}</p>
-    <p><strong>Tags:</strong> {{ post.tags | join
-
+    <p><strong>Tags:</strong> {{ post.tags | join: ", " }}</p>
+    <p>{{ post.excerpt }}</p>
+    <a href="{{ post.url }}">Read More →</a>
+    <hr>
+  </article>
+{% endfor %}

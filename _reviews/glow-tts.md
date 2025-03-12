@@ -1,5 +1,5 @@
 ---
-title: "Glow-TTS"
+title: "Glow-TTS Paper Review"
 date: 2020-05-22
 layout: single
 collection: reviews

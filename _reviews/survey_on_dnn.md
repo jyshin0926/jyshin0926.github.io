@@ -1,5 +1,5 @@
 ---
-title: "Survey on DNN in Speech and Vision"
+title: "Survey on DNN in Speech and Vision Paper Review"
 date: 2019-12-01
 layout: single
 collection: reviews

@@ -1,5 +1,5 @@
 ---
-title: "VQ-wav2vec"
+title: "VQ-wav2vec Paper Review"
 date: 2019-09-11
 layout: single
 collection: reviews

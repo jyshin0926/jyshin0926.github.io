@@ -1,5 +1,5 @@
 ---
-title: "VALL-E"
+title: "VALL-E Paper Review"
 date: 2023-01-05
 layout: single
 collection: reviews

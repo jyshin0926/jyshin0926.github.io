@@ -1,5 +1,5 @@
 ---
-title: "wav2vec 2.0"
+title: "wav2vec 2.0 Paper Review"
 date: 2020-10-22
 layout: single
 collection: reviews

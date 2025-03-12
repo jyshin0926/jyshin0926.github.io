@@ -1,5 +1,5 @@
 ---
-title: "Glow"
+title: "Glow Paper Review"
 date: 2018-07-09
 layout: single
 collection: reviews

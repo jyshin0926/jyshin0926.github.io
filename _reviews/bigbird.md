@@ -1,9 +1,8 @@
-
 ---
 title: "BigBird Paper Review"
 date: 2021-01-08
 layout: single
-<!-- collection: reviews -->
+collection: reviews
 category: summarization
 tags: [paper-review,nlp, transformer, summarization]
 permalink: /reviews/nlp/transformer/

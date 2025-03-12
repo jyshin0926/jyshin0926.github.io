@@ -1,4 +1,3 @@
-
 ---
 title: "Watermarking for TTS Paper Review"
 date: 2024-01-02
@@ -12,7 +11,7 @@ permalink: /reviews/tts/watermarking/
 📝 **Paper:** [Collaborative Watermarking for Adversarial Speech Synthesis](https://arxiv.org/abs/2309.15224)
 
 
-<-- 🔍 **Summary:** This paper introduces a **flow-based** model for TTS, improving **robustness** compared to Tacotron. -->
+<!-- 🔍 **Summary:** This paper introduces a **flow-based** model for TTS, improving **robustness** compared to Tacotron. --> 
 
 
 

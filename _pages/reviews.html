@@ -12,26 +12,3 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-<!-- ---
-layout: archive
-title: "Paper Reviews"
-permalink: /reviews/
-author_profile: true
----
-
-{% include base_path %}
-
-<h1>Paper Reviews</h1>
-
-{% assign sorted_reviews = site.reviews | sort: "date" | reverse %}
-
-{% for post in sorted_reviews %}
-  <article>
-    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    <p><strong>Published on:</strong> {{ post.date | date: "%B %d, %Y" }}</p>
-    <p><strong>Tags:</strong> {{ post.tags | join: ", " }}</p>
-    <p>{{ post.excerpt }}</p>
-    <a href="{{ post.url }}">Read More →</a>
-    <hr>
-  </article>
-{% endfor %} -->

@@ -1,5 +1,5 @@
 ---
-title: "Watermarking for TTS Paper Review"
+title: "Watermarking for TTS"
 date: 2024-01-02
 layout: single
 collection: reviews

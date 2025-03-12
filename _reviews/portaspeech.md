@@ -1,5 +1,5 @@
 ---
-title: "PortaSpeech Paper Review"
+title: "PortaSpeech"
 date: 2021-09-30
 layout: single
 collection: reviews

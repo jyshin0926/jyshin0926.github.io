@@ -1,5 +1,5 @@
 ---
-title: "Conv-TasNet Paper Review"
+title: "Conv-TasNet"
 date: 2018-06-20
 layout: single
 collection: reviews

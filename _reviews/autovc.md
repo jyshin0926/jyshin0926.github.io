@@ -1,5 +1,5 @@
 ---
-title: "AutoVC Paper Review"
+title: "AutoVC"
 date: 2019-06-06
 layout: single
 collection: reviews

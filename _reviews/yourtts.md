@@ -1,5 +1,5 @@
 ---
-title: "YourTTS Paper Review"
+title: "YourTTS"
 date: 2021-12-04
 layout: single
 collection: reviews

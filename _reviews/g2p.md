@@ -1,5 +1,5 @@
 ---
-title: "Neural Grapheme-to-Phoneme Paper Review"
+title: "Neural Grapheme-to-Phoneme"
 date: 2022-01-26
 layout: single
 collection: reviews

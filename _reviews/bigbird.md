@@ -1,5 +1,5 @@
 ---
-title: "BigBird Paper Review"
+title: "BigBird"
 date: 2021-01-08
 layout: single
 collection: reviews

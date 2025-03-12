@@ -4,11 +4,11 @@ date: 2022-06-16
 layout: single
 collection: reviews
 category: expressiveness
-tags: [paper-review, generative-model, Neural Codec]
+tags: [paper-review, expressivness, prosody, tts]
 permalink: /reviews/expressiveness/prosody/
 ---
 
-📝 **Paper:** Neural Grapheme-to-Phoneme Conversion with Pre-trained Grapheme Models
+📝 **Paper:** [Automatic Prosody Annotation with Pre-Trained Text-Speech Model](https://arxiv.org/abs/2206.07956)
 
 <!-- 📝 **Paper:** Glow-TTS: A Generative Flow for Text-to-Speech Synthesis  
 🔍 **Summary:** This paper introduces a **flow-based** model for TTS, improving **robustness** compared to Tacotron. -->

@@ -34,7 +34,12 @@ Additionally, I contribute to **AI safety research**, ensuring generative models
 
 ## Contact
 I welcome opportunities to discuss my research and collaborations in speech AI and deep learning.  
-📌 **[CV](https://drive.google.com/file/d/1hTPX5-YXnjxhQUH6IgMdo5XI67-Ondz_/view?usp=sharing)** | **[GitHub](https://github.com/jyshin0926)** | **[LinkedIn](https://www.linkedin.com/in/jaeyoungshin23/)**  
+
+📌 **[CV](https://drive.google.com/file/d/1B2PD_t-ZFy0VUoqbJK9zFXCFafiSFa3O/view?usp=sharing)** | **[GitHub](https://github.com/jyshin0926)** | **[LinkedIn](https://www.linkedin.com/in/jaeyoungshin23/)**  
+
+
+
+<!-- 📌 **[CV](https://drive.google.com/file/d/1hTPX5-YXnjxhQUH6IgMdo5XI67-Ondz_/view?usp=sharing)** | **[GitHub](https://github.com/jyshin0926)** | **[LinkedIn](https://www.linkedin.com/in/jaeyoungshin23/)**   -->
 
 
 <!-- Jaeyoung Shin's Personal Website -->

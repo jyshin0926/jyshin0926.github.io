@@ -16,6 +16,7 @@ permalink: /reviews/representation/wav2vec2/
 
 
 
+
 📄 **Slides (Korean ver.):** [View Here](https://docs.google.com/presentation/d/1pCZbtIL88Wt9c8To480zl6LbiNOmeh_I/edit?usp=sharing&ouid=116677507102760525154&rtpof=true&sd=true)
 
 

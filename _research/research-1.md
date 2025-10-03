@@ -5,7 +5,9 @@ collection: research
 ---
 
 <!-- ## Research in Controllable Emotional TTS -->
-  Currently investigating **multi-modal prompts for expressive and controllable speech synthesis**. Independently authored a **research paper, IMPACT-TTS**, which is **under review for ACL 2025**.
+  Currently investigating **multi-modal prompts for expressive and controllable speech synthesis, IMPACT-TTS**. 
+  <!-- Independently authored a **research paper, IMPACT-TTS**. -->
+  <!-- which is **under review for ACL 2025**. -->
 
 ---
 
@@ -14,7 +16,7 @@ collection: research
 
 ## Introduction
 
-Have you ever wished your virtual assistant could **speak with real emotions**, adapting its tone just like a human? Whether it's **expressive audiobook narration**, **immersive gaming dialogues**, or **lifelike dubbing**, emotional expressiveness in Text-to-Speech (TTS) systems is a **game-changer**. However, **traditional emotional TTS models** struggle with limited emotion control and unnatural expression.
+Have you ever wished your virtual assistant could **speak with real emotions**, adapting its tone just like a human? Whether it's **expressive audiobook narration**, **immersive gaming dialogues**, or **lifelike dubbing**, emotional expressiveness in Text-to-Speech (TTS) systems is a game-changer. However, **traditional emotional TTS models** struggle with limited emotion control and unnatural expression.
 
 That's where **IMPACT-TTS** comes in! This approach integrates **multimodal learning and prompt-based control** to bring **fine-grained, user-driven emotional expressiveness** to synthetic voices. 
 <!-- Let’s dive into how this innovation is reshaping the future of TTS! -->

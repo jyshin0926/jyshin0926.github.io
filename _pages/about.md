@@ -39,8 +39,7 @@ Lastly, I have been continuously exploring **AI safety research** to ensure gene
 
 ## Contact
 I welcome opportunities to discuss my research and collaborations in Audio AI and deep learning.  
-📌 **[GitHub](https://github.com/jyshin0926)** | **[LinkedIn](https://www.linkedin.com/in/jaeyoungshin23/)**  
-**[CV](https://drive.google.com/file/d/1VqCj7lPiy_92Ia2WlN4VR8nq9kDtnC4Y/view?usp=sharing)** | 
+📌 **[GitHub](https://github.com/jyshin0926)** | **[LinkedIn](https://www.linkedin.com/in/jaeyoungshin23/)** | **[CV](https://drive.google.com/file/d/1VqCj7lPiy_92Ia2WlN4VR8nq9kDtnC4Y/view?usp=sharing)** | 
 
 
 <!-- Jaeyoung Shin's Personal Website -->

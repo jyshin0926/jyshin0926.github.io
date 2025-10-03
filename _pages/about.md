@@ -33,7 +33,7 @@ Originally trained in marine biology, I transitioned into AI research after disc
 - **Undergraduate Intern at [Computational Cognitive Affective Neuroscience Laboratory](https://cocoanlab.github.io/), [IBS](https://www.ibs.re.kr/eng.do/)** – Applied **fMRI analysis, deep learning, and signal processing** to study brain responses.
 
 ## Current Focus
-I’m currently working on a automatic audio quality Assessment and multimodal emotional TTS system designed to overcome low-resource constraints.
+I’m currently working on an automatic audio quality Assessment and multimodal emotional TTS system designed to overcome low-resource constraints.
 Additionally, I have recently developed an interest in music AI.
 Lastly, I have been continuously exploring **AI safety research** to ensure generative models remain **trustworthy and ethical**.
 

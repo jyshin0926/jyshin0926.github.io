@@ -30,8 +30,8 @@ main:
   - title: "Paper Reviews"
     url: /reviews/
   
-  - title: "Research"
-    url: /research/
+  # - title: "Research"
+  #   url: /research/
   
   # - title: "CV"
   #   url: /cv/

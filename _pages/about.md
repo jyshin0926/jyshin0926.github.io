@@ -21,7 +21,8 @@ I have contributed to voice cloning, expressive TTS, and audio quality assessmen
 ## What I Do
 My research focuses on making **speech AI more expressive, natural, and robust**. Key areas of expertise include:
 - **Expressive Speech Synthesis** – Enhancing **emotional and prosodic** quality in AI-generated speech.
-- **Multimodal AI** – Integrating **text, speech, and vision** to improve generative models.
+<!-- - **Multimodal AI** – Integrating **text, speech, and vision** to improve generative models. -->
+- **Speech Quality Assessment** – Assessing expressiveness, naturalness, and audio quality for TTS.
 - **Speech Enhancement & Retrieval** – Improving **audio quality and assessment** using deep learning.
 
 ## Research & Experience

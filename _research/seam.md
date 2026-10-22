@@ -14,7 +14,7 @@ Evaluation uses IEMOCAP and ESD speech paired with Jamendo music. On held-out IE
 </figure>
 
 <figure>
-	<img src="/images/seam-intensity.png" alt="Valence and arousal trajectories across speech-residual steering intensity">
+	<img src="/files/task_b2_160.png" alt="Valence and arousal trajectories across speech-residual steering intensity">
 	<figcaption>Automatic valence and arousal estimates across five steering strengths for happy and sad speech, comparing speech-residual steering with lexical blending.</figcaption>
 </figure>
 

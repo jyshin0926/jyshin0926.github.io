@@ -28,6 +28,7 @@ My research focuses on making **speech AI more expressive, natural, and robust**
 ## Research & Experience
 <!-- Originally majored in marine biology, I transitioned into AI research after discovering the potential of deep learning in cognitive neuroscience and speech technology.   -->
 
+- **Teaching Assisstant at [Seoul National University](https://en.snu.ac.kr/)** - Tutoring basic python algorithms and data science syntax.
 - **AI Scientist at [GenesisLab](https://home.genesislab.ai/)** – Developed **voice cloning, expressive TTS, and chatbot programs** using LLMs.
 - **AI Researcher at [PuzzleAI](https://puzzle-ai.com/)** – Focused on **speaker verification, real-time noise reduction, and document summarization**.
 - **Intern at [TmaxSoft](https://www.tmaxsoft.com/en/introduction/overview)** – Created a **[Python tool](https://github.com/jyshin0926/TxtTransTool/blob/master/README_eng.md)** that **doubled** text preprocessing efficiency.

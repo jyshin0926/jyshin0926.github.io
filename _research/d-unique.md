@@ -1,10 +1,19 @@
 ---
-title: "D-UNIQE: Descriptive Unified Speech Quality and Emotion Assessment"
-excerpt: "A unified evaluation model for speech quality and emotional expressiveness in emotional TTS."
+title: "D-UNIQE: Descriptive Unified Speech Quality and Emotion Assessment for Emotional TTS"
+excerpt: "A speech LLM that jointly assesses naturalness, audio quality, and emotion with perceptual explanations.<br/><img src='/images/d-unique-framework.svg' alt='D-UNIQE assessment framework'>"
 collection: research
 ---
 
-D-UNIQE evaluates naturalness, audio quality, and emotion in generated speech, producing descriptive judgments grounded in human perception. The listening demo pairs speech samples and waveforms with human ratings and D-UNIQE results. This first-author work is under review at ICASSP 2027.
+D-UNIQE is a unified evaluator for naturalness, audio quality, and emotional fidelity in emotional TTS. Frozen Whisper, BEATs, and AVD encoders provide semantic, acoustic, and affective speech features. A windowed Q-Former and task-routed projection mixture-of-experts map these features to a LoRA-adapted Vicuna-7B model, which generates scores and perceptual explanations. GRPO-QTR trains score accuracy and score-explanation consistency for the two score-based quality tasks.
+
+On held-out evaluations, D-UNIQE reports naturalness SRCC 0.726 and PCC 0.727, and audio-quality MSE 0.336, SRCC 0.808, and PCC 0.824. It achieves emotion accuracy 0.658, with CCC 0.606 and PCC 0.624 for dimensional affect. In a matched naturalness analysis, soft task routing raises score-description correlation to 0.890 and reduces observed high-score/negative-description contradictions to 0%.
+
+<figure>
+	<img src="/images/d-unique-framework.svg" alt="Simplified overview of the D-UNIQE speech assessment framework">
+	<figcaption>Simplified overview based on the paper's framework figure: speech representations are routed by assessment task before the language model generates scores and explanations.</figcaption>
+</figure>
+
+The paper is under review at ICASSP 2027.
 
 - [Open the listening demo](https://jyshin0926.github.io/DUNIQE/)
 - [View the source on GitHub](https://github.com/jyshin0926/DUNIQE)

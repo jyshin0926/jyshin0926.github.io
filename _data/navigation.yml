@@ -19,19 +19,17 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
 
+  - title: "Research"
+    url: /research/
+
   - title: "Projects"
     url: /projects/
-  
 
-  
   # - title: "Publications"
   #   url: /publications/
 
   - title: "Paper Reviews"
     url: /reviews/
-  
-  - title: "Research"
-    url: /research/
   
   # - title: "CV"
   #   url: /cv/

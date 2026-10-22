@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-labelledby="title description">
+  <title id="title">D-UNIQE speech assessment framework</title>
+  <desc id="description">Speech passes through frozen semantic, acoustic, and affective encoders, then a windowed Q-Former and task-routed projection mixture-of-experts. A Vicuna language model produces assessment scores and perceptual explanations. Supervised training and GRPO-QTR improve task performance and score-explanation consistency.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#60736e" />
+    </marker>
+    <style>
+      .label { fill: #203b36; font: 700 19px Arial, sans-serif; }
+      .detail { fill: #52645f; font: 15px Arial, sans-serif; }
+      .small { fill: #52645f; font: 14px Arial, sans-serif; }
+      .node { stroke: #cbd9d4; stroke-width: 2; rx: 9; }
+      .path { fill: none; stroke: #60736e; stroke-width: 3; marker-end: url(#arrow); }
+    </style>
+  </defs>
+
+  <rect width="1200" height="430" rx="12" fill="#f5f8f7" />
+  <text x="32" y="34" class="small" letter-spacing="1">D-UNIQE · SPEECH QUALITY AND EMOTION ASSESSMENT</text>
+
+  <rect x="28" y="115" width="130" height="112" class="node" fill="#ffffff" />
+  <path d="M51 166h8v23h-8zm15-13h8v36h-8zm15-12h8v60h-8zm15 18h8v29h-8zm15-12h8v42h-8zm15 9h8v25h-8" fill="#78a99d" />
+  <text x="93" y="211" text-anchor="middle" class="detail">Speech waveform</text>
+
+  <rect x="205" y="76" width="196" height="48" class="node" fill="#e7f1ee" />
+  <text x="303" y="98" text-anchor="middle" class="label">Whisper</text>
+  <text x="303" y="116" text-anchor="middle" class="small">semantic features</text>
+  <rect x="205" y="142" width="196" height="48" class="node" fill="#edf0f7" />
+  <text x="303" y="164" text-anchor="middle" class="label">BEATs</text>
+  <text x="303" y="182" text-anchor="middle" class="small">acoustic features</text>
+  <rect x="205" y="208" width="196" height="48" class="node" fill="#f8eee8" />
+  <text x="303" y="230" text-anchor="middle" class="label">AVD encoder</text>
+  <text x="303" y="248" text-anchor="middle" class="small">affective features</text>
+  <text x="303" y="278" text-anchor="middle" class="small">Frozen speech encoders</text>
+
+  <rect x="457" y="142" width="151" height="82" class="node" fill="#fff4d9" />
+  <text x="532" y="175" text-anchor="middle" class="label">Windowed</text>
+  <text x="532" y="199" text-anchor="middle" class="label">Q-Former</text>
+
+  <rect x="663" y="142" width="174" height="82" class="node" fill="#f9e7e2" />
+  <text x="750" y="173" text-anchor="middle" class="label">Task-routed</text>
+  <text x="750" y="197" text-anchor="middle" class="label">projection MoE</text>
+  <text x="750" y="218" text-anchor="middle" class="small">specialized task experts</text>
+
+  <rect x="892" y="142" width="142" height="82" class="node" fill="#e8edf7" />
+  <text x="963" y="176" text-anchor="middle" class="label">Vicuna-7B</text>
+  <text x="963" y="201" text-anchor="middle" class="detail">+ LoRA</text>
+
+  <rect x="1080" y="142" width="94" height="82" class="node" fill="#ffffff" />
+  <text x="1127" y="174" text-anchor="middle" class="detail">Score</text>
+  <text x="1127" y="198" text-anchor="middle" class="detail">+ rationale</text>
+
+  <path d="M158 171 H181 V100 H205 M181 166 H205 M181 232 H205" class="path" />
+  <path d="M401 100 H430 V183 H457 M401 166 H430 M401 232 H430" class="path" />
+  <path d="M608 183 H663 M837 183 H892 M1034 183 H1080" class="path" />
+
+  <rect x="663" y="264" width="174" height="44" class="node" fill="#ffffff" />
+  <text x="750" y="292" text-anchor="middle" class="detail">Task identity: quality / emotion</text>
+  <path d="M750 264 V229" class="path" />
+
+  <rect x="205" y="342" width="440" height="58" class="node" fill="#e7f1ee" />
+  <text x="425" y="367" text-anchor="middle" class="label">Stage 1 · Supervised multitask training</text>
+  <text x="425" y="389" text-anchor="middle" class="small">Naturalness · audio quality · emotion</text>
+  <rect x="663" y="342" width="511" height="58" class="node" fill="#fff0e9" />
+  <text x="918" y="367" text-anchor="middle" class="label">Stage 2 · GRPO-QTR for quality scores</text>
+  <text x="918" y="389" text-anchor="middle" class="small">Score accuracy · grounded reasoning · answer consistency</text>
+</svg>

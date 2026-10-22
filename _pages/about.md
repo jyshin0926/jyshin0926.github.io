@@ -22,13 +22,13 @@ I have contributed to voice cloning, expressive TTS, and audio quality assessmen
 My research focuses on making **speech AI more expressive, natural, and robust**. Key areas of expertise include:
 - **Expressive Speech Synthesis** – Enhancing **emotional and prosodic** quality in AI-generated speech.
 <!-- - **Multimodal AI** – Integrating **text, speech, and vision** to improve generative models. -->
-- **Speech Quality Assessment** – Assessing expressiveness, naturalness, and audio quality for TTS.
+- **Speech Quality Assessment** – Evaluating naturalness, audio quality, and emotional expressiveness in TTS.
 - **Speech Enhancement & Retrieval** – Improving **audio quality and assessment** using deep learning.
 
 ## Research & Experience
 <!-- Originally majored in marine biology, I transitioned into AI research after discovering the potential of deep learning in cognitive neuroscience and speech technology.   -->
 
-- **Teaching Assisstant at [Seoul National University](https://en.snu.ac.kr/)** - Tutoring basic python algorithms and data science syntax.
+- **Teaching Assistant at [Seoul National University](https://en.snu.ac.kr/)** -  Supported instruction in Python syntax and algorithms.
 - **AI Scientist at [GenesisLab](https://home.genesislab.ai/)** – Developed **voice cloning, expressive TTS, and chatbot programs** using LLMs.
 - **AI Researcher at [PuzzleAI](https://puzzle-ai.com/)** – Focused on **speaker verification, real-time noise reduction, and document summarization**.
 - **Intern at [TmaxSoft](https://www.tmaxsoft.com/en/introduction/overview)** – Created a **[Python tool](https://github.com/jyshin0926/TxtTransTool/blob/master/README_eng.md)** that **doubled** text preprocessing efficiency.

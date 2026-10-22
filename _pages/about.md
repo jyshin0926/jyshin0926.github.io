@@ -33,13 +33,11 @@ Originally majored in marine biology, I transitioned into AI research after disc
 - **Undergraduate Intern at [Computational Cognitive Affective Neuroscience Laboratory](https://cocoanlab.github.io/), [IBS](https://www.ibs.re.kr/eng.do/)** – Applied **fMRI analysis, deep learning, and signal processing** to study brain responses.
 
 ## Current Focus
-I’m currently working on an automatic audio quality Assessment and a multimodal emotional TTS system designed to overcome low-resource constraints.
-Additionally, I have recently developed an interest in music AI.
-Lastly, I have been continuously exploring **AI safety research** to ensure generative models remain **trustworthy and ethical**.
+My current research explores how to evaluate generative speech and emotion, including unified quality and expressiveness assessment for emotional TTS and speech-conditioned music generation. I’m also contributing to research on emergent vocal communication between learning agents.
 
 ## Contact
 I welcome opportunities to discuss my research and collaborations in Audio AI and deep learning.  
-📌 **[GitHub](https://github.com/jyshin0926)** | **[LinkedIn](https://www.linkedin.com/in/jaeyoungshin23/)** | **[CV](https://drive.google.com/file/d/1VqCj7lPiy_92Ia2WlN4VR8nq9kDtnC4Y/view?usp=sharing)** | 
+📌 **[GitHub](https://github.com/jyshin0926)** | **[LinkedIn](https://www.linkedin.com/in/jaeyoungshin23/)** | **[CV](https://drive.google.com/file/d/16_XYICpqJ-ZLHSrU0YI5aJcmThaF8dWq/view?usp=sharing)** |
 
 
 <!-- Jaeyoung Shin's Personal Website -->
